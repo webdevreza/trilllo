@@ -1,3 +1,3 @@
 # Trillo
-##### Responsive wevsite using Flexbox
+##### Responsive website using Flexbox
 #### Live link: https://webdevreza.github.io/trilllo/
